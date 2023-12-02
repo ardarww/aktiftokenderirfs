@@ -1,0 +1,5 @@
+Öncelikle ilanımı aldığınız için teşekkür ederim.
+-İlk olarak node.js sitesine gidip latest features indirip İnstall.bat ı açıp bekleyin,yükleyince otomatik olarak kapanıyor
+-İkinci olarak ise tokenlerinizi token.txt kısmına girip uygulamayı çalıştırmak.
+-Eğer Token Onliner Çalışmaz ise error_main.py i açın.
+İyi alışverişler dilerim yorum yapmayı unutmayın!<3
